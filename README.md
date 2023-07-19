@@ -1,3 +1,4 @@
+A gh extension to display a list of alerts that are `OPEN` in the dependabot security alerts.
 ## Create
 ```bash
 $ gh extension create --precompiled=go gh-vls
