@@ -1,3 +1,6 @@
+[![CodeQL](https://github.com/blck-snwmn/gh-vls/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/blck-snwmn/gh-vls/actions/workflows/github-code-scanning/codeql)
+[![release](https://github.com/blck-snwmn/gh-vls/actions/workflows/release.yml/badge.svg)](https://github.com/blck-snwmn/gh-vls/actions/workflows/release.yml)
+
 A gh extension to display a list of alerts that are `OPEN` in the dependabot security alerts.
 ## Create
 ```bash
