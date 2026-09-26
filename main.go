@@ -60,7 +60,7 @@ func main() {
 	var after *graphql.String
 	var alerts []Alert
 	for {
-		variables := map[string]interface{}{
+		variables := map[string]any{
 			"query": graphql.String(fmt.Sprintf("user:%s", userName)),
 			"after": after,
 		}
